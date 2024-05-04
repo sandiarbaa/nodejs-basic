@@ -1,0 +1,17 @@
+{
+  "name": "dependencies-example-npm",
+  "version": "0.0.1",
+  "description": "descript folder",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "sandi-ap",
+  "license": "ISC",
+  "dependencies": {
+    "format-money": "^1.0.0"
+  }
+}
